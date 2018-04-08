@@ -4,11 +4,6 @@ end: 2018-03-18 11:00:00
 period: 1m
 exchanges: [{"eid":"Futures_OKCoin","currency":"LTC"}]
 '''
-
-
-
-
-
 import numpy as np
 
 def getPostion(ContractTypeA,directionA,ContractTypeB,directionB):
